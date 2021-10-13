@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>petoria.github.io</title>
+<img src="petoria.jpeg" alt="This should be the Petorian flag, but it doesn't seem to be working.">
+			<title>be sure to read .C,A.P,S. O,N.L,Y.</title>
+			<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+				<video width="640" height="480" controls>
+			        <source src="prespeter.mp4" type="video/mp4">
+  				Your browser does not support the video tag.
+				</video>
+
+	    		</ul>
+
+			</footer>
+		</body>
+	</html>

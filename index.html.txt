@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>petoria.github.io</title>
+<img src="petoria.jpeg" alt="This should be the Petorian flag, but it doesn't seem to be working.">
+			<title>be sure to read .C,A.P,S. O,N.L,Y.</title>
+			<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/links">Social Media Links</a></li>
+	        		<li><a href="/grams">g,a.m,e.s</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="/prespeter">/a>IMPORTANT</li>
+	        		<li><a href="/changelog">Website Changelog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			<div class="blurb">
+	<h1>Hey all, Presidential Peter here!</h1>
+	<p>Thanks for visiting my website! Here is where I have posted G,A.M,E.S, for you to enjoy!</p>
+	<p>
+		Home pages are only visited for a little while, so i'm probably not gonna update this much, if at all.
+	</p>
+</div><!-- /.blurb -->
+
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="https://www.youtube.com/channel/UCV_gIUHcIYNgZqNb0eoaLIw">E</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
